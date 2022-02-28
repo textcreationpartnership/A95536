@@ -1,0 +1,952 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between a pedler and a popish priest in a very hot discourse full of mirth, truth, wit, folly and plain dealing / by John Taylor the Water-poet.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95536</idno>
+            <idno type="STC">Wing T451</idno>
+            <idno type="STC">ESTC R42478</idno>
+            <idno type="EEBO-CITATION">36282057</idno>
+            <idno type="OCLC">ocm 36282057</idno>
+            <idno type="VID">150314</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150314)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2241:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between a pedler and a popish priest in a very hot discourse full of mirth, truth, wit, folly and plain dealing / by John Taylor the Water-poet.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Reviv'd, review'd and reprinted.</edition>
+               </editionStmt>
+               <extent>[9], 22 p., [1] leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for, and sold by, Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Includes woodcut frontispiece.</note>
+                  <note>"Tract I."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150314:1"/>
+            <p>A DIALOGUE BETWEEN A PEDLER AND A <hi>Popiſh Prieſt,</hi> In a very Hot Diſcourſe full of Mirth, Truth, Wit, Folly and plain Dealing.</p>
+            <p>By <hi>JOHN TAYLOR</hi> the Water-Poet.</p>
+            <p>TRACT I.</p>
+            <p>Reviv'd, Review'd and Reprinted.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for, and Sold by, <hi>Henry Hills</hi> in <hi>Black-Fryers,</hi> near the Waterſide, 1699.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:150314:2" rendition="simple:additions"/>
+            <pb facs="tcp:150314:2" rendition="simple:additions"/>
+            <pb facs="tcp:150314:3" rendition="simple:additions"/>
+            <pb facs="tcp:150314:3"/>
+            <pb facs="tcp:150314:4"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of two men in a boat</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:150314:4" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:150314:5"/>
+            <pb facs="tcp:150314:5"/>
+            <head>To the Worſhipful, the Eight Rulers, Aſſiſtants and others the Members of the Company of <hi>Water<g ref="char:EOLhyphen"/>men.</hi>
+            </head>
+            <p>
+               <hi>JOHN TAYLOR,</hi> the Water Poet, who was the Author of this Tract, was long ſince a Member of Your Company; and, for his ſingular Loyalty to his Royal Maſter King <hi>CHALES</hi> the Firſt, honour'd with his Badg; and like<g ref="char:EOLhyphen"/>wiſe made a Yeoman of the Guard.</p>
+            <p>His Converſation was honeſt and diverting; his Brain was ſo Fruitful, that it overflow'd with pleaſant thoughts and Witty conceits: Who ever Reads his Works, may eaſily diſcover he was no <hi>Plagiary;</hi> bor<g ref="char:EOLhyphen"/>row'd from none; but all his Writ<g ref="char:EOLhyphen"/>ings
+<pb facs="tcp:150314:6"/>were purely Original; touch<g ref="char:EOLhyphen"/>ing always on ſuch Subjects, which none had ever attempted; Altho' he wanted the Imbelliſhments of Learn<g ref="char:EOLhyphen"/>ing, yet he had ſo great a Stock of Natural Parts, That <hi>Ben. Johnſon,</hi> in that Age, (the beſt Judg without doubt) Eſteem'd and Valu'd him, as one of his Sons.</p>
+            <p>In his own Writings, we find him mention Sevenſcore ſeveral Tracts, publiſh'd by him: Tho' in the Vo<g ref="char:EOLhyphen"/>lume which paſſes for his Works, there is but Sixty three; many of them coming to my Hands which are not inſerted in that Volume. I have Induſtriouſly labour'd to pro<g ref="char:EOLhyphen"/>cure the Remainder; and choſe to Publiſh them Singly, and Gradually, and preſume to Dedicate them to You, who claim the greateſt Title to them. I ſhall not attempt to give
+<pb facs="tcp:150314:6"/>Encomiums; 'tis ſufficient the Works praiſe the Author. By this Means, even the pooreſt may eaſily obtain ſo admirable a Collection; and not feel the want of their Mony. (For 'tis pity any thing of his ſhould be buried in Oblivion) I choſe to pu<g ref="char:EOLhyphen"/>bliſh this <hi>Dialogue firſt, between the</hi> Pedler <hi>and a <hi>Popiſh Prieſt;</hi>
+               </hi> to ſhew his Stedfaſtneſs in the Proteſtant Re<g ref="char:EOLhyphen"/>ligion; which all his time he la<g ref="char:EOLhyphen"/>bour'd, both by his Exemplary Life and Pen, to Teſtify: For, when the <hi>Civil Wars</hi> had reduc'd him to great Neceſſities, his Body full of Infirmities, and loaded with Years; yet ſtill he continu'd with his Pen, to aſſert his Loyalty to his Prince, and his firm principles of Religion, and Zeal towards his God. If this may find Acceptance, and Appro<g ref="char:EOLhyphen"/>bation
+<pb facs="tcp:150314:7"/>from Your Worſhips; 'Twill give me encouragment to preſent You with the Remainder and Sub<g ref="char:EOLhyphen"/>ſcribe my ſelf,</p>
+            <closer>
+               <signed>Your Worſhips, moſt Humble Servant <hi>Henry Hills.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:150314:7"/>
+            <lg>
+               <l>'TWas <hi>Taylor</hi>'s Cuſtom when he Journey took,</l>
+               <l>To make a Bill, and place before his Book.</l>
+               <l>His Benefactors all ſubſcrib'd unto it,</l>
+               <l>And <hi>John</hi> with willing mind did ſtill purſue it.</l>
+               <l>Now, tho' <hi>John Taylor</hi>'s dead, if you think fit,</l>
+               <l>That I revive thoſe Works <hi>John Taylor</hi> writ,</l>
+               <l>'Tis in Your powers to make him Live again,</l>
+               <l>Approve m'attempt, 'twill recompence my pain:</l>
+               <l>I'll try my Skill to raiſe him from the Dead,</l>
+               <l>And Weekly Print You, what Your Poet ſaid.</l>
+               <l>
+                  <hi>Bacchus</hi> was always thought the Poets friend,</l>
+               <l>
+                  <hi>Ben. Johnſon</hi>'s Rhimes did often <hi>Sack</hi> commend;</l>
+               <l>Nay, tho' great <hi>Ben.</hi> much Learning had acquir'd,</l>
+               <l>Yet he writ beſt, when with good Wine inſpir'd;</l>
+               <l>But, <hi>Taylor</hi>'s Genius, by Nature only taught,</l>
+               <l>Was with ſuch rich Conceit and Fancy fraught;</l>
+               <l>That <hi>Bacchus</hi> now to <hi>Neptune</hi> muſt ſubmit,</l>
+               <l>Wine makes Men Witty, but Water full of Wit.</l>
+               <l>I'll ſay no more, all his Works plainly ſhow it,</l>
+               <l>He well deſerv'd the Name of Water-Poet.</l>
+               <l>I hope my Labours may encourag'd be,</l>
+               <l>Whilſt I, like him, thus beg Your Courteſy.</l>
+            </lg>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:150314:8"/>
+            <head>THE PREFACE.</head>
+            <lg>
+               <l>A Romiſh Prieſt <hi>and</hi> Poland Ped<g ref="char:EOLhyphen"/>ler <hi>met,</hi>
+               </l>
+               <l>
+                  <hi>And in a ſad Diſcourſe they both are ſet.</hi>
+               </l>
+               <l>
+                  <hi>He that will know what Talk they us'd, he may</hi>
+               </l>
+               <l>
+                  <hi>Read o'er the Book, and then know what they ſay.</hi>
+               </l>
+            </lg>
+            <byline>Written in manner of a Dialogue, By <hi>JOHN TAYLOR.</hi>
+            </byline>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:150314:8"/>
+            <head>A DIALOGUE Between a PEDLER and a ROMISH PRIEST.</head>
+            <lg>
+               <l>A <hi>Poland Pedler</hi> went upon a day,</l>
+               <l>Unto a <hi>Romiſh Prieſt</hi> to learn to pray;</l>
+               <l>The <hi>Prieſt</hi> ſaid, <hi>Pedler</hi> get thee to the Cloi<g ref="char:EOLhyphen"/>ſter</l>
+               <l>And learn the <hi>Ave</hi> and the <hi>Pater Noſter.</hi>
+               </l>
+            </lg>
+            <sp>
+               <speaker>Pe.</speaker>
+               <l>Now good Sir <hi>John</hi> (quoth he) what talk is that,</l>
+               <l>I hear you ſpeak, but God in Heaven knows what.</l>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <l>It is that Worthy Holy Latin Letter</l>
+               <l>Doth pleaſe the Lord well, and our Lady better.</l>
+            </sp>
+            <sp>
+               <speaker>Ped.</speaker>
+               <l>Now good Sir <hi>John,</hi> I know not what they be,</l>
+               <l>The Latin Tongue is Heathen Greek to me.</l>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <l>
+                  <hi>Pedler,</hi> if thou to me wilt but repair,</l>
+               <l>Within one Month I'll teach thee Latin Prayer.</l>
+               <l>And tho' thou underſtand not what thou ſayeſt,</l>
+               <l>Thou ſhalt ſpeak pretty Latin when thou prayeſt.</l>
+            </sp>
+            <sp>
+               <speaker>Pedler.</speaker>
+               <l>To pray ſo Sir, is only but in ſaying,</l>
+               <l>In Words, not Sence, a Prating, not a Praying;</l>
+               <l>Shall I that am a Man of perfect Age,</l>
+               <l>Talk like a witleſs <hi>Parret</hi> in a Cage?</l>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:150314:9"/>
+               <speaker>Prieſt.</speaker>
+               <l>A <hi>Parret</hi> can but Prattle for her part,</l>
+               <l>But towards God hath neither mind or Heart.</l>
+            </sp>
+            <sp>
+               <speaker>Ped.</speaker>
+               <l>Then ſeeng I have Head and Heart to pray,</l>
+               <l>Shall not my Heart know what my Tongue doth ſay?</l>
+               <l>For when my Tongue talks, if my Heart miſcarry,</l>
+               <l>How quickly I may marr your <hi>Ave Mary?</hi>
+               </l>
+               <l>And I Sir having many things to ſeek,</l>
+               <l>How ſhou'd I ſpeed, not knowing what I ſpeak?</l>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <l>God underſtands all Tongues, and knows, and he</l>
+               <l>The thoughts and Secrets of the Heart doth ſee.</l>
+            </sp>
+            <sp>
+               <speaker>Ped.</speaker>
+               <l>Then if I think one thing and ſpeak another,</l>
+               <l>I wrong my ſelf, and Chriſt, and his bleſt Mother;</l>
+               <l>For when I Pray they would my Pack repair,</l>
+               <l>Your <hi>Ave Mary</hi> is a fruitleſs Prayer.</l>
+            </sp>
+            <sp>
+               <speaker>Pri.</speaker>
+               <l>The Latin prayers are but general Heads,</l>
+               <l>For our Reliefs in all our Wants and Needs:</l>
+               <l>The Latin ſerves us as a Liturgie,</l>
+               <l>As curious Arts direct Chirurgery,</l>
+               <l>And in that Language <hi>Maſs</hi> is ſaid and ſung,</l>
+               <l>For private things pray in thy Mother Tongue</l>
+            </sp>
+            <sp>
+               <speaker>Ped.</speaker>
+               <l>Then I muſt have a Tongue, Sir <hi>John,</hi> for either,</l>
+               <l>One for the Mother, and one for the Father.</l>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <l>Thinkſt thou the Mother doth not know ſuch ſmall things?</l>
+               <l>Chriſt is her Son, man, and he tells her all things.</l>
+            </sp>
+            <sp>
+               <speaker>Ped.</speaker>
+               <l>But where did that bleſt Virgin learn her Latin,</l>
+               <l>For in Her days was neither <hi>Maſs</hi> nor <hi>Mattin,</hi>
+               </l>
+               <l>Nor yet one <hi>Prieſt</hi> that Latin then could ſpeak,</l>
+               <l>For holy Words were <hi>Hebrew</hi> then or <hi>Greek,</hi>
+               </l>
+               <l>She never was at <hi>Rome,</hi> nor kiſs'd <hi>Popes</hi> Feet,</l>
+               <l>How came She by the <hi>Maſs</hi> fain would I weet.</l>
+            </sp>
+            <sp>
+               <speaker>Pri.</speaker>
+               <l>
+                  <hi>Pedler,</hi> if you believe the Legendary,</l>
+               <l>The <hi>Maſs</hi> is older far then Chriſt or <hi>Mary,</hi>
+               </l>
+               <pb n="3" facs="tcp:150314:9"/>
+               <l>For all the <hi>Patriarchs</hi> both more and leſs,</l>
+               <l>And great <hi>Melchiſedeck</hi> himſelf ſaid <hi>Maſs.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Pe.</speaker>
+               <l>But good ſir <hi>Prieſt,</hi> ſpake all theſe Fathers Latin?</l>
+               <l>And ſaid they <hi>Maſs</hi> in golden Copes or Sattin?</l>
+               <l>Could they ſpeak Latin long e'er Latin grew?</l>
+               <l>(For without Latin no <hi>Maſs</hi> can be true)</l>
+               <l>And you that would inforce us to this task,</l>
+               <l>Me thinks 'tis like a May-game or a Maſque.</l>
+            </sp>
+            <sp>
+               <speaker>Pri.</speaker>
+               <l>Well <hi>Pedler</hi> thou art too too curious,</l>
+               <l>Thy purblind Zeal fervent, but furious,</l>
+               <l>I rather would a hundred Monks direct,</l>
+               <l>Then ſuch an Puritan of thy mad ſect;</l>
+               <l>This thou muſt know, this cannot be deni'd,</l>
+               <l>
+                  <hi>Rome</hi> govern'd all when Chriſt was Crucifi'd.</l>
+               <l>
+                  <hi>Rome,</hi> Heathen then, but afterwards Converred.</l>
+               <l>And grew ſo honeſt, and ſo holy-hearted,</l>
+               <l>That now our Emperour is turn'd t' a Pope,</l>
+               <l>Whoſe Holineſs (as you have heard I hope,</l>
+               <l>Hath made a Law that all the World muſt pray</l>
+               <l>In Latin Language to the Lord each day;</l>
+               <l>He's Chriſts full Vicar, and I'll boldy ſay,</l>
+               <l>That what he doth command we muſt obey;</l>
+               <l>He bids us pray in Latin, and even ſo</l>
+               <l>We muſt do, whe're we underſtand or no.</l>
+               <l>He hath full power to confound or ſave,</l>
+               <l>And who dares then but do as he will have?</l>
+            </sp>
+            <sp>
+               <speaker>Ped.</speaker>
+               <l>This purpoſe to ſome purpoſe puts me back,</l>
+               <l>And hath more Points then Pins are in my Pack,</l>
+               <l>What ever power you give unto your Pope,</l>
+               <l>He cannot make a Man an <hi>Ape,</hi> I hope,</l>
+               <l>And if he be full Vicar to our Lord,</l>
+               <l>Shou'd not His words and Chriſts keep one accord.</l>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:150314:10"/>
+               <speaker>Pri.</speaker>
+               <l>Doubtleſs they do, and never are contrary, In <hi>Pater-noſter, Creed, or Ave-mary.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Ped.</speaker>
+               <l>But Chriſts Diſciples when they made their mo<g ref="char:EOLhyphen"/>tion,</l>
+               <l>Unto their Maſter, how to make devotion,</l>
+               <l>As I have done to you (ſir <hi>John</hi>) to day;</l>
+               <l>I pray you in what Tongue bade he them Pray?</l>
+               <l>Chriſt did not one word <hi>Latin</hi> to them ſpeak,</l>
+               <l>Their talk was then all <hi>Siriack, Hebrew, Greek.</hi>
+               </l>
+               <l>He bid all Nations pray after one manner,</l>
+               <l>But bid not all take <hi>Latin</hi> for their Banner.</l>
+               <l>Your <hi>Latin</hi> is but one of the Tranſlations,</l>
+               <l>Why ſhould it then exclude all other Nations;</l>
+               <l>And on my Soul, ſir <hi>John,</hi> if I do ſay</l>
+               <l>In mine own Mother Tongue when I doe Pray,</l>
+               <l>Lord help me, Lord forgive me all my ſins,</l>
+               <l>Yea (why not) Lord ſupply my <hi>Pack</hi> and <hi>Pins;</hi>
+               </l>
+               <l>And every thing whereof I ſtand in need,</l>
+               <l>(For this depends upon our daily bread)</l>
+               <l>I hope in God that I ſhall ſpeed as well,</l>
+               <l>As if in <hi>Latin</hi> I my wants did tell.</l>
+               <l>And ſince ſome Tongues have more antiquity</l>
+               <l>then <hi>Latin,</hi> were it not iniquity,</l>
+               <l>To force all People to Pray like the <hi>Pope?</hi>
+               </l>
+               <l>No good, ſir <hi>John,</hi> you'l not ſay ſo I hope.</l>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <l>Well <hi>Pedler,</hi> one thing I would fain make plain;</l>
+               <l>Return we to our Lady back again,</l>
+               <l>And if thou hadſt as much capacity</l>
+               <l>As roving Wit, with great audacity,</l>
+               <l>The Caſe is clear, that Virgin <hi>Mary</hi> meek,</l>
+               <l>Could all and every Tongue and Language ſpeak.</l>
+               <l>Haſt thou not heard, man, how the <hi>Holy Ghoſt,</hi>
+               </l>
+               <l>Came down like Cloven Tongues at <hi>Pentecoſt,</hi>
+               </l>
+               <pb n="5" facs="tcp:150314:10"/>
+               <l>And fill'd the Houſe where all the Twelve were ready,</l>
+               <l>And one Tongue truly lighted on our <hi>Lady?</hi>
+               </l>
+               <l>And think not that I talk of Toys and Dreams,</l>
+               <l>Ask but the Reverend Jeſuites of <hi>Rhemes,</hi>
+               </l>
+               <l>And what they write of this but wiſely Note.</l>
+            </sp>
+            <sp>
+               <speaker>Ped.</speaker>
+               <l>In faith (ſir <hi>John</hi>) it is not worth a Groat;</l>
+               <l>Will I believe't think you, becauſe they ſay it.</l>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <l>Nay but they prov't as no Man can deny it;</l>
+               <l>Saith not the Text that when the Lord aſcended,</l>
+               <l>Unto the Twelve he earneſtly commanded,</l>
+               <l>That from <hi>Jeruſalem</hi> they ſhould not go,</l>
+               <l>Until the Comforter did come, <label type="milestone">
+                     <seg type="milestoneunit">Act. </seg>1</label> and ſo</l>
+               <l>They all conjoyned with one joynt conſent,</l>
+               <l>And to an upper Room together went,</l>
+               <l>Where <hi>Mary</hi> was and other whole Six ſcore,</l>
+               <l>That with the Twelve did daily God adore.</l>
+               <l>Then (ſays the Text) when <hi>Pentecoſt</hi> was come,</l>
+               <l>They were together then both all and ſome,</l>
+               <l>And all were filled with the Holy Ghoſt.</l>
+            </sp>
+            <sp>
+               <speaker>Ped.</speaker>
+               <l>Now good ſir Prieſt you count without your Hoſt;</l>
+               <l>I ſee well that your <hi>Rhemiſh</hi> Jeſuites Tongues,</l>
+               <l>Hath clove the Text even to the very Lungs.</l>
+               <l>That (ALL) for which you reckon up Six ſcore,</l>
+               <l>Is here meant only of the Twelve, no more;</l>
+               <l>Nor <hi>Mary</hi> is not named there as than,</l>
+               <l>What need we then believe it, holy Man.</l>
+               <l>On with your <hi>Spectacles</hi> (ſir <hi>John</hi>) and read,</l>
+               <l>And credit this as one point of your Creed,</l>
+               <l>The Holy Ghoſt did fall upon no more,</l>
+               <l>Then he was promiſed unto before:</l>
+               <l>Now he was only promiſt to the Twelve,</l>
+               <l>Look on the Text, I pray, and judge your ſelve;</l>
+               <pb n="6" facs="tcp:150314:11"/>
+               <l>Speak Man, and be not ſilent, I am ſorry,</l>
+               <l>To ſee you ignorant of ſuch a ſtory;</l>
+               <l>For ſhame let not a <hi>Pedler</hi> with his Pack,</l>
+               <l>Put you with all your Sophiſtry to wrack.</l>
+               <l>For as the Stories in themſelves are divers,</l>
+               <l>Flowing and falling into ſundry Rivers,</l>
+               <l>In divers Chapters ſo they ſtand divided,
+<note place="margin">
+                     <hi>the</hi> 1. <hi>&amp;</hi> 2. <hi>chap.</hi>
+                  </note>
+               </l>
+               <l>So that the Caſe may clearly be decided;</l>
+               <l>For when thoſe Six-ſcore were at firſt convened,</l>
+               <l>There was another myſtery then meaned;</l>
+               <l>To wit, <hi>Mathias</hi> free Election,</l>
+               <l>And ſo Saint <hi>Peter</hi> gave direction,</l>
+               <l>That all thoſe Six-ſcore then ſhould bear Record,</l>
+               <l>Of their proceedings then before the Lord:</l>
+               <l>The chooſing of a Paſtour was in hand,</l>
+               <l>Which without Churches, knowledg cannot ſtand,</l>
+               <l>And ſo <hi>Mathias,</hi> (by the power of Heaven)</l>
+               <l>By lot was took as one with the Eleven.</l>
+               <l>Then (ſays the Text) all theſe together were,</l>
+               <l>What all theſe were doth very plain appear,</l>
+               <l>To be the Twelve in the laſt Verſe before,</l>
+               <l>And not make Leap Year of eleven verſe more.</l>
+               <l>To draw all back to that Hundred and twenty,</l>
+               <l>Indeed this way we ſhould have Tongues in plenty,</l>
+               <l>They differ in Twelve verſes, the Text ſays,</l>
+               <l>Beſides the time is different full Ten days,</l>
+               <l>The firſt upon the day the Lord aſcended,</l>
+               <l>The other when the Holy Ghoſt deſcended.</l>
+               <l>Such glazen arguments will bide no Hammer,</l>
+               <l>For they are but bad Logick and worſe Grammer;</l>
+               <l>As for the Holy Ghoſt 'tis verifi'd,</l>
+               <l>His coming down unto no Law is ti'd:</l>
+               <pb n="7" facs="tcp:150314:11"/>
+               <l>Sometimes inviſible, and ſometimes ſeen,</l>
+               <l>As diverſly at divers times hath been.</l>
+               <l>Few needs to ſee his coming with their Eyes,</l>
+               <l>His works are Witneſſes which may ſuffice;</l>
+               <l>And ſo St. <hi>Paul</hi> this giſt found privately,</l>
+               <l>By <hi>Ananias</hi> hand aſſuredly.
+<note place="margin">
+                     <hi>Acts</hi> 9.</note>
+               </l>
+               <l>And ſo Sir <hi>John,</hi> to ſhew you all my Pack,</l>
+               <l>And let you ſee my Breaſt as well as Back;</l>
+               <l>I wonder ye conſider not the end,</l>
+               <l>Why God the Holy Ghoſt in Tongues did ſend:</l>
+               <l>Know ye not Women are forbidden Preaching,</l>
+               <l>Know ye not Tongues were only given for Teaching;</l>
+               <l>Women (at home) have hardly leave to ſpeak,</l>
+               <l>But they take leave, and often ſilence break;</l>
+               <l>Their Husbands muſt permit their Tongues to walk,</l>
+               <l>And therefore, in Gods Houſe, they may not talk:</l>
+               <l>And then, Sir <hi>John,</hi> what worſhip do you win</l>
+               <l>Unto our Lady, when you bring her in</l>
+               <l>As a Companion with the whole Six ſcore,</l>
+               <l>Who gat the wholy Ghoſt and ſhe no more;</l>
+               <l>And where the Pope hath made her Queen of Heaven,</l>
+               <l>You make her here like one of the Eleven:</l>
+               <l>In this her dignity doth ſeem to fall,</l>
+               <l>You thruſt her to the Kitching from the Hall.</l>
+               <l>And this is alſo one of your rare Themes,</l>
+               <l>Held by your reverend Jeſuits of <hi>Rhemes,</hi>
+               </l>
+               <l>That Latin came not with the Holy Ghoſt,</l>
+               <l>When as the Tongues came down at <hi>Pentecoſt.</hi>
+               </l>
+               <l>Now if it came not then, I pray expreſs</l>
+               <l>How came it by that perfect Holineſs,</l>
+               <l>That in it only, and no other Tongue,</l>
+               <l>Both <hi>Maſs</hi> and <hi>Mattins</hi> muſt be ſaid and Sung?</l>
+               <pb n="8" facs="tcp:150314:12"/>
+               <l>Your laſt refuge will be unto the Pope,</l>
+               <l>So knit up all together in a Rope.</l>
+            </sp>
+            <sp>
+               <speaker>Pri.</speaker>
+               <l>Wert thou at <hi>Rome,</hi> and half theſe words didſt ſpeak,</l>
+               <l>
+                  <hi>Pedler,</hi> it were enough thy Neck to break;</l>
+               <l>But here <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> live, and talk and prate ſecure,</l>
+               <l>And undervalue that bleſt Virgin pure,</l>
+               <l>Yeelding no honour, or no Adoration</l>
+               <l>To her, or to her days of Celebration.</l>
+               <l>(Go but to <hi>Spain,</hi> and ſhew thy vile condition,</l>
+               <l>Thou ſhall be tortur'd in the Inquiſition.)</l>
+               <l>Her Miracles of ſmall worth you eſteem,</l>
+               <l>Her merits at low value you miſdeem,</l>
+               <l>Her ſacred Reliques you condemn, deſpiſe,</l>
+               <l>And all her attributes you much miſpriſe:</l>
+               <l>Thou ſay'ſt with Six ſcore I do make her ſhare,</l>
+               <l>Your ſelves with her your courſe Wives do compare,</l>
+               <l>Shame and Confuſion doth to all belong,</l>
+               <l>Who dare the beſt, moſt bleſt of creatures wrong.</l>
+            </sp>
+            <sp>
+               <speaker>Pedl.</speaker>
+               <l>Indeed (Sir <hi>John</hi>) you come upon me now,</l>
+               <l>With ſomthing which my Faith doth diſallow.</l>
+               <l>I pray you to conſider but a little,</l>
+               <l>You give her many a Title and a Tittle,</l>
+               <l>For which you have no Warrant in the Word,</l>
+               <l>And yet purſue us both with Fire and Sword,</l>
+               <l>As Heretiques for doing not as ye do,</l>
+               <l>Yet, what the Word bids, and no more that we do;</l>
+               <l>Think you that any Man can be ſo mad,</l>
+               <l>As to hold Chriſt his Saviour, and ſo bad,</l>
+               <l>As to hold <hi>Mary</hi> for his Saviours Mother,</l>
+               <l>And not to love her far above all other,</l>
+               <l>Above all Creatures, ſhe was full of Grace,</l>
+               <l>And ſure in Glory ſhe hath ſuprem place</l>
+               <pb n="9" facs="tcp:150314:12"/>
+               <l>And eminence, all other Souls tranſcending</l>
+               <l>In joy and bliſs, that never ſhall have ending.</l>
+               <l>The Holy Ghoſt inſpir'd her beyond meaſure,</l>
+               <l>She was poſſeſt with Heaven and Earths whole treaſure,</l>
+               <l>And grant ſhe could ſpeak Latin, and all Tongues,</l>
+               <l>Yet <hi>Maſs</hi> or <hi>Mattins</hi> to her not belongs.</l>
+               <l>Of all that mortal were ſhe was the beſt,</l>
+               <l>And her immortal Soul is now moſt bleſt.</l>
+               <l>Her memorable Honour to preſerve,</l>
+               <l>Her days of Celebration we obſerve,</l>
+               <l>The Feaſt of her Anuntiation,</l>
+               <l>Her clear and pure Purification,</l>
+               <l>The Church (in reverence) hath ordain'd theſe days,</l>
+               <l>On which we ſhould ſend up our Prayers and Praiſe,</l>
+               <l>To our good God, whoſe mercy was ſo great,</l>
+               <l>To leave his glorious and immortal Seat,</l>
+               <l>And to the Bleſſed Virgins Womb he came,</l>
+               <l>And took on him our filthy Sin and Shame;</l>
+               <l>And on theſe days we pray that we may be,</l>
+               <l>The Virgins followers in Humility,</l>
+               <l>That our true meekneſs, and our lowlineſs,</l>
+               <l>May raiſe us to Eternal bleſſedneſs;</l>
+               <l>We hold it the ſure way to our Salvation,</l>
+               <l>To follow her in Holy imitation;</l>
+               <l>Through heavenly influence her excellence,</l>
+               <l>Muſt be admir'd with love and reverence,</l>
+               <l>And thoſe that dare compare moſt ſawcily,</l>
+               <l>Their Wives or Mothers with her ſanctity,</l>
+               <l>Are ſawcy Knaves in Pride and Ignorance,</l>
+               <l>Or <hi>Atheiſts,</hi> fit to lead the Hang-man's dance;</l>
+               <l>We love her then, though we believe not in her,</l>
+               <l>Nor (by will-worſhip) do we think to win her;</l>
+               <pb n="10" facs="tcp:150314:13"/>
+               <l>We hold her bleſſed for Chriſts fleſh conceiving,</l>
+               <l>But far more bleſſed for Chriſts Faith receiving:</l>
+               <l>She was his Mother, ſo's the Church his Wife,</l>
+               <l>Which was to him much dearer then his Life;</l>
+               <l>Now if that one could fall at odds with th' other,</l>
+               <l>He would reſpect his Wife before his mother;</l>
+               <l>For who ſo once to him a Wife doth take,</l>
+               <l>Muſt Father, Mother, Friends and Kin forſake.</l>
+               <l>And this is every Spouſes carriage,</l>
+               <l>But moſt in this Spiritual Marriage:</l>
+               <l>As <hi>Mary</hi>'s mother of Chriſts humane life,</l>
+               <l>She's but the Daughter of his heavenly Wife;</l>
+               <l>By which Church only, faith doth me perſwade,</l>
+               <l>Of Chriſt bleſt body ſhe's a member made;</l>
+               <l>Whereby theſe glorious Titles ſhe hath won,</l>
+               <l>Made, Mother, Wife, Child, Siſter to her Son.</l>
+               <l>All this Sir <hi>John</hi> I do but briefly ſay,</l>
+               <l>To let you ſee you play us much foul play.</l>
+            </sp>
+            <sp>
+               <speaker>Pri.</speaker>
+               <l>Well <hi>Pedler,</hi> tho' that Pack about thou bear,</l>
+               <l>Th'art ſome Apoſtate <hi>Monk</hi> or <hi>Fryer</hi> I fear,</l>
+               <l>Of <hi>Luthers</hi> love, or <hi>Calvins</hi> curſed crew,</l>
+               <l>And ſent abroad ſuch buſineſs to brew,</l>
+               <l>Diſguiſed like the Perſon of ſome <hi>Pedler.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Ped.</speaker>
+               <l>No faith (Sir <hi>John</hi>) I am not ſuch a medler,</l>
+               <l>Nor have I mind or means ſo high to mount,</l>
+               <l>A little I can Read or caſt Account;</l>
+               <l>My wits are weak to utter Rime or Reaſon,</l>
+               <l>I know not what you call your <hi>Kerrieleiſon.</hi>
+               </l>
+               <l>So help me God (Sir <hi>John</hi>) I know no better,</l>
+               <l>Nor in your Latin can I read a Letter:</l>
+               <l>For Latin is a Language admirable,</l>
+               <l>And my poor Friends and Parents were unable</l>
+               <pb n="11" facs="tcp:150314:13"/>
+               <l>To purchaſe one ſcrap of it, for my ſhare,</l>
+               <l>And ſure without it I can ſell my ware;</l>
+               <l>And though I have no Latin, yet I can</l>
+               <l>Ask what I want of either God or Man,</l>
+               <l>In mine own mother Tongue, I know and ſee,</l>
+               <l>How ſimple Souls by you abuſed be;</l>
+               <l>And how your doctrin half our Prayers would carry,</l>
+               <l>From Chriſt our Saviour to the Virgin <hi>Mary.</hi>
+               </l>
+               <l>I alſo do perceive how you do frame,</l>
+               <l>Strange innovations to that heavenly Dame,</l>
+               <l>Aſcribing her that honour, which to none</l>
+               <l>Is due, but only unto God alone:</l>
+               <l>Of which ſhe takes ſmall notice, nor will ſhe</l>
+               <l>For it at any time your helper be.</l>
+            </sp>
+            <sp>
+               <speaker>Pri.</speaker>
+               <l>Read but the <hi>Legend, Pedler,</hi> and there view</l>
+               <l>Her miracles, approve her honour due,</l>
+               <l>For which the Pope in Latin doth prefer,</l>
+               <l>That <hi>Maſs</hi> and <hi>Mattins</hi> muſt be ſaid to her.</l>
+               <l>Read, and Conſider, and believe it well,</l>
+               <l>Or elſe thou art at leaſt half way in Hell.</l>
+            </sp>
+            <sp>
+               <speaker>Ped.</speaker>
+               <l>Sure Hell is not within the Popes Commiſſion,</l>
+               <l>Though <hi>Purgatory,</hi> and the <hi>Inquiſition,</hi>
+               </l>
+               <l>Are things which he himſelf of late created,</l>
+               <l>Yet of ſmall worth, by wiſe Men they are rated;</l>
+               <l>I anſwer as I oft before have ſaid,</l>
+               <l>I Love, and Reverence that bleſt Mother Maid,</l>
+               <l>But I believe in God, and when I pray,</l>
+               <l>Chriſt help me (when my Soul or Corps do ſtray)</l>
+               <l>And ſo what e'er I either have or want,</l>
+               <l>I neither Pray to <hi>he</hi> or to <hi>ſhe</hi> Saint;</l>
+               <l>And as for Tongues, I have but one, no more,</l>
+               <l>And wot ye well, although I had Six ſcore,</l>
+               <pb n="12" facs="tcp:150314:14"/>
+               <l>I would conform my ſelf to <hi>Paul</hi>'s commanding,</l>
+               <l>Pray with my Tongue, Pray with my underſtanding.</l>
+               <l>Think you the twelve, when they receiv'd the tongues,</l>
+               <l>Talkt, and knew not whereto their talk belongs,</l>
+               <l>Yielding a ſound, not knowing what they ſaid,</l>
+               <l>Idle in Preaching, Idler when they Pray'd?</l>
+               <l>No each of them knew well what he did ſay,</l>
+               <l>And why not we (Sir <hi>John</hi>) as well as they?</l>
+               <l>For ſince each Man hath one Tongue at command,</l>
+               <l>Shall Men ſpeak Tongues they do not underſtand?</l>
+               <l>Alas good ſir, had I been train'd at School,</l>
+               <l>As I am but a ſilly ſimple Fool,</l>
+               <l>A hundred Queſtions more I might have mov'd,</l>
+               <l>But here I ceaſe for fear to be reproved,</l>
+               <l>For theſe few doubts I learn'd in ſundry places,</l>
+               <l>Me thinks ſuch Men as you ſhould clear all Caſes.</l>
+            </sp>
+            <sp>
+               <speaker>Pri.</speaker>
+               <l>Now <hi>Pedler,</hi> I confeſs thou puts me to it;</l>
+               <l>But one thing I will tell thee, if thou'lt do it;</l>
+               <l>If to our <hi>Prior</hi> thou'lt with me go back,</l>
+               <l>Perhaps he will buy all that's in thy pack,</l>
+               <l>And teach thee better how to Pray then any,</l>
+               <l>For ſuch a holy Man there are not many,</l>
+               <l>Be here to Morrow Between ſix and ſeven,</l>
+               <l>And thou wilt find thy ſelf half ways in Heaven.</l>
+            </sp>
+            <sp>
+               <speaker>Ped.</speaker>
+               <l>Content Sir <hi>John,</hi> but there is one thing more,</l>
+               <l>I muſt have your opinion in before,</l>
+               <l>Suppoſe the holy <hi>Prior</hi> have no leaſure,</l>
+               <l>To talk of every purpoſe at our pleaſure,</l>
+               <l>Your Book which is the <hi>Golden Legend</hi> nam'd,</l>
+               <l>(Wherein as many Lies as Lines are fram'd)</l>
+               <l>And, on my conſcience, I do think that you,</l>
+               <l>Do know the moſt on't to be moſt untrue;</l>
+               <pb n="13" facs="tcp:150314:14"/>
+               <l>And therefore tell me Sir before you go,</l>
+               <l>Whether your ſelves believe it, yea or no?</l>
+            </sp>
+            <sp>
+               <speaker>Pri.</speaker>
+               <l>Yes verily we do believe it all,</l>
+               <l>And hold it holy and authentical.</l>
+            </sp>
+            <sp>
+               <speaker>Ped.</speaker>
+               <l>Then I'll repeat a tale or two in Proſe,</l>
+               <l>Which few wiſe Men believe as I ſuppoſe.</l>
+            </sp>
+            <p>IN the 45, and 46, Leaf of the aforeſaid Book, I have read, that in the Reign of King <hi>William</hi> the Conqueror, the <hi>Danes</hi> had a purpoſe to War againſt <hi>England;</hi> to prevent which, King <hi>William</hi> ſent <hi>Helli<g ref="char:EOLhyphen"/>ſeus</hi> the Abbot of <hi>Ramſey</hi> Embaſſadour into <hi>Denmark,</hi> who having ended his Embaſſy, as he return'd home<g ref="char:EOLhyphen"/>ward, he was on the Sea dangerouſly diſtreſt with an impetuous and terrible Tempeſt, ſo that the Maſter of the Ship, and all the Marriners did yeild themſelves as loſt Men: In which extremity they all prayed de<g ref="char:EOLhyphen"/>voutly to our Lady for help, and ſuddenly there ap<g ref="char:EOLhyphen"/>peared walking on the Water a Reverend perſonage in the form or likeneſs of a Biſhop, who called the Abbot <hi>Hellizeus</hi> to him, and told him, that our Lady had heard their prayers, and that ſhe had ſent him to deliver them from the Storm, and that it was her plea<g ref="char:EOLhyphen"/>ſure to have the day of her Conception kept holy year<g ref="char:EOLhyphen"/>ly for ever on the eight day of <hi>December;</hi> which the Abbot promiſed to do, and preſently the <hi>Angel</hi> vani<g ref="char:EOLhyphen"/>ſhed away, the Tempeſt ceaſed, the Abbot arrived ſafely in <hi>England,</hi> and reported what he had heard, ſeen, and ſuffered; and laſtly the Feaſt was command<g ref="char:EOLhyphen"/>ed to be kept on the 8, day of <hi>December</hi> accordingly.</p>
+            <p>Alſo in the ſame Book and Leaf is related, that a Couſin german of a King of <hi>Hungary,</hi> who raigned
+<pb n="14" facs="tcp:150314:15"/>I know not when, whoſe names were I know not what, did marry with a Lady (I know not who) at a place I know not where, did, I know not why, forſake his Wife, I know not wherefore, to ſerve our Lady I know not how; for the ſtory lies thus, that he was a devout and daily invocator to the bleſſed Virgin, and (being new<g ref="char:EOLhyphen"/>ly married) the ſame day of the marriage the Bride<g ref="char:EOLhyphen"/>groom ſtaid alone in the Church, remembring that he had not that day done his accuſtomed Oriſons, where<g ref="char:EOLhyphen"/>fore he ſent his new Bride home, and himſelf ſtayed in the Church to perform his devotion; where preſently our Lady appeared to him, and taxed him with unkind<g ref="char:EOLhyphen"/>neſs, in that he would leave her and betake himſelf to another, but if he would forſake his Wife, and follow her in a devout Life and Converſation, then ſhe pro<g ref="char:EOLhyphen"/>miſed to give him the Kingdom of Heaven, where<g ref="char:EOLhyphen"/>upon it is ſaid, he preſently forſook his Wife, and ever after was a true ſervant to our Lady.</p>
+            <lg>
+               <l>What think you now (Sir <hi>John</hi>) is this good ſtuff?</l>
+               <l>It edifies me, much like Blindman buff;</l>
+               <l>Is't not a ſhame, that you theſe things dare do,</l>
+               <l>To wrong poor People and our Lady to?</l>
+               <l>You have no ſtarting hole, nor no excuſe</l>
+               <l>To cover or to colour your abuſe;</l>
+               <l>But by your leave, I'll tell a tale or twain</l>
+               <l>In Proſe, and fall into our Verſe again.</l>
+            </lg>
+            <p>In the 88 Leaf I did read of another nameleſs Lady, that dreamed ſhe was before the Shrine of our Lady on <hi>Candlemas</hi> day; ſhe then (as ſhe dream'd) had a burning Candle in her Hand, which Candle ſhe was three times commanded to offer to the Image of the Virgin, which ſhe not doing, the Angel ſtrove with her for it, and
+<pb n="15" facs="tcp:150314:15"/>brake it in the midſt; at which the Lady awaked, and found half a Candle in her Hand, which ſhe ever af<g ref="char:EOLhyphen"/>ter kept as a holy Relique, and with the touch of it did many Miracles, and cured a great number of di<g ref="char:EOLhyphen"/>ſeaſes only with the very touch of the ſaid Candle.</p>
+            <p>There was a Thief whom they call'd a Knight, that had long time us'd to Rob upon the High-way, by which accurſed Gentleman-like Trade, he was grown very Rich, and kept tall Fellows to attend him, who were as arrant Thieves as himſelf; amongſt them there was one perform'd or ſerved the office of his Chamber<g ref="char:EOLhyphen"/>lain, that was a Devil in the ſhape of a Man. It fell out ſo they Rob'd a Holy-man, who deſired he might ſpeak with the chief or Maſter Thief; which being granted, the Holy-man requeſts that he might ſee all the Ser<g ref="char:EOLhyphen"/>vants together; whereupon they were called: then ſaid the Holy-man, here are not all, and then they miſſed the Chamberlain, and called him, who was no ſooner come into the ſaid Bleſſed-mans preſence, but he cryed out, ſaying, I am a Devil in this humane form, who have followed this Knight a long time to deſtroy him for his bad Life, but I could never have any power over him to hurt him, becauſe he did daily, with great devotion, oftentimes ſalute the bleſſed Virgin <hi>Mary,</hi> with <hi>Ave Maria.</hi> Leaf, 105.</p>
+            <p>In the 217 Leaf there is a tale of a Monk, that was a great Letcher, who by accident was Drunk and Drownd in a River which he fell into, and the Devils came buſily about his Carkaſs to carry it to Hell; but becauſe the ſaid Monk had uſed conſtantly to pray to our Lady, ſhe then appeared her ſelf, and commanded the Devils to depart, and then ſhe gave the Soul of the
+<pb n="16" facs="tcp:150314:16"/>Monk into his dead Body again, and ever after he had a care to live honeſtly.</p>
+            <p>In the ſame 217 Leaf there is a Relation of a Knt. that had ſpent all his ſubſtance waſtfully in riot, and being deſperate in his wants, he would have ſold his Wife to the Devil for a great ſum of Mony; but the Bargain being made, and the good Gentlewoman to be delivered to the Friend, our Lady appeared to her, and laid her in a ſleep, taking upon her ſelf the ſhape of the ſleeping Gentlewoman; which when the Knight would have delivered, the Devil began to Roar and Howl, and trembling ſaid, that the Knight had decei<g ref="char:EOLhyphen"/>ved him, in bringing the Mother of God to him in<g ref="char:EOLhyphen"/>ſtead of his Wife; and with that the Devil fled away, and the Knight with repentance took his Wife again; and in concluſion our Lady gave them wealth, ſo that ever after they lived together lovingly.</p>
+            <p>In the 220 Leaf it is ſaid, that as the Body of the bleſſed Virgin was carried towards her grave or burial, a <hi>Jew</hi> in deſpightful manner laid both his Hands on the Bier, and violently would have overthrown it, when preſently his Hands ſundred from his Arms, and clave faſt to the Bier; at which the <hi>Jew</hi> roar'd, cryed out and repented, and St. <hi>Peter</hi> commanded him to kiſs the Bier, whereby he was preſently recovered, and had his Hands reſtor'd to his Arms again.</p>
+            <p>In the 218 Leaf it is related, that in the City of <hi>Barrges, Anno</hi> 226, the Chriſtians being at <hi>Maſs</hi> on an <hi>Eaſter-day,</hi> a <hi>Jews</hi> Child came amongſt them at the <hi>Maſs</hi> and received the Sacra<g ref="char:EOLhyphen"/>ment of the Altar: And after all the Ceremony and Service was ended, the Young <hi>Jew</hi> returned,
+<pb n="17" facs="tcp:150314:16"/>and his Father demanded of him where he had been; he anſwered, that he had been at <hi>Maſs</hi> amongſt the Chriſtians; at which the Old <hi>Jews</hi> was ſo enraged, that he took his Son and threw him into a Hot Fiery Furnace; but our Lady ſuddenly appeared unto the Boy in the Furnace, and by Her power did preſerve him from the fury of the Heat, ſo that he came forth, not having ſo much as the hair of his Head touched or Scorched with Burning. Whereupon the People took the Old <hi>Jew</hi> and caſt him into the Furnace, and pre<g ref="char:EOLhyphen"/>ſently he was conſumed.</p>
+            <p>Alſo it is ſaid, that the Houſe that the bleſſed Virgin dwelt in at <hi>Bethlehem</hi> was remov'd by heavenly Angels, and carried thro the Air many thouſand Miles over Sea and Land, to the Country of <hi>Dalmatia,</hi> where it did remain for a certain time, and then it was again removed to <hi>Lorretto</hi> in <hi>Italy,</hi> where it remains to this day, being a Holy place, much viſited by Pilgrims, and (by vertue of it) many Miracles are wrought daily.</p>
+            <lg>
+               <l>And thus the Book you brag of, far excels</l>
+               <l>The Lies of <hi>Jews, Turks, Moors,</hi> and <hi>Infidels;</hi>
+               </l>
+               <l>And ſure the Heathen hearing of theſe Lies,</l>
+               <l>The Chriſtian Religion diſpiſe;</l>
+               <l>He that will one day guerdon good and bad,</l>
+               <l>T'whoſe word we muſt not dare a bate or add,</l>
+               <l>Againſt thoſe he will draw his vengful Sword,</l>
+               <l>That mingle fables with his ſacred Word.</l>
+            </lg>
+            <sp>
+               <speaker>Pri</speaker>
+               <l>Thy blinded Zeal my very heart doth grieve,</l>
+               <l>Thou underſtandſt not what thou ſhouldſt believe,</l>
+               <l>Thinkſt thou ſo many grave and learned Men,</l>
+               <l>Have liv'd and dy'd in blear-ey'd errours Den,</l>
+               <pb n="18" facs="tcp:150314:17"/>
+               <l>Doſt think all Popes, all Cardinals, are Lyers,</l>
+               <l>Abbots, moſt zealous Monks, moſt holy Fryers?</l>
+               <l>Doſt think all theſe for many a hundred Year,</l>
+               <l>Did not profeſs and know the truth ſincere?</l>
+               <l>Theſe Men maintain'd the Church in glorious ſtate,</l>
+               <l>'Till <hi>Luther</hi> and curſt <hi>Calvin</hi> 'gan to prate.</l>
+            </sp>
+            <sp>
+               <speaker>Ped.</speaker>
+               <l>Like as a <hi>Squirril</hi> skips from Tree to Tree,</l>
+               <l>Even (ſo Sir <hi>John</hi>) you from the matter flee;</l>
+               <l>Our talk was Latin, and our Lady firſt,</l>
+               <l>And you to other Arguments out burſt.</l>
+               <l>I tell you, I that Virgin love and honour,</l>
+               <l>Altho my prayers do not wait upon her,</l>
+               <l>Nor do I hold her Reliques of ſuch price,</l>
+               <l>To raiſe Souls to the heavenly Paradice:</l>
+               <l>You, her ſuppos'd apparel do adore,</l>
+               <l>Hair-lace and Slippers (which ſhe never wore)</l>
+               <l>Her Comb, her Girdle, and her Gown of Silk,</l>
+               <l>Her Apron, and the Pot that held her Milk,</l>
+               <l>Her Cloak, her Hankerchief, her Hood, her Hair,</l>
+               <l>To theſe you mumble many a Latin prayer;</l>
+               <l>And therefore I defy you, and in ſadneſs,</l>
+               <l>I hold ſuch holineſs a kind of madneſs:</l>
+               <l>And ſo (Sir <hi>John</hi>) we two will make an end,</l>
+               <l>And each of us about his buſineſs wend;</l>
+               <l>Yet e'er we part I would fall to again,</l>
+               <l>And of the Latin ſpeak a word or twain;</l>
+               <l>There was but one Tongue at the birth of <hi>Abel.</hi>
+               </l>
+               <l>And many at the building up of <hi>Babel;</hi>
+               </l>
+               <l>A wicked work, which God would have confounded,</l>
+               <l>But when Chriſt came, all Tongues again reſounded,</l>
+               <l>To build his Church by his Apoſtles teaching,</l>
+               <l>Which was in Praying ſure as well as Preaching;</l>
+               <pb n="19" facs="tcp:150314:17"/>
+               <l>For Prayer is the full and true perfection</l>
+               <l>Of Holy ſervice (ſaving your correction)</l>
+               <l>Then if our Lord to mine own Tongue be ready,</l>
+               <l>What need I then with Latin move our Lady,</l>
+               <l>Or if to both my Prayers muſt be in,</l>
+               <l>I pray ſir tell with which ſhould I begin,</l>
+               <l>And to pray joyntly to them both as one,</l>
+               <l>Your Latin Prayers then are quickly gone;</l>
+               <l>For <hi>Pater Noſter</hi> never will accord</l>
+               <l>With her, nor <hi>Ave Mary</hi> with our Lord.</l>
+               <l>If I have him, what need I ſeek another,</l>
+               <l>Or will he nothing do without his Mother?</l>
+               <l>And this (Sir <hi>Prieſt</hi>) was much in Queſtion,</l>
+               <l>Diſputed long, with deep digeſtion,</l>
+               <l>Whether the <hi>Ave Mary</hi> ſhould be ſaid</l>
+               <l>To God, or to our Lady when they pray'd:</l>
+               <l>With which, Saint <hi>Andrews</hi> Univerſity,</l>
+               <l>Was puzled with a ſtrange diverſity,</l>
+               <l>And ſat ſo long they cooled all their Kale,</l>
+               <l>At laſt the Maſter Cook heard of the Tale,</l>
+               <l>And like a mad Man ran among the Clergy,</l>
+               <l>Crying with many a <hi>Domine me aſperge,</hi>
+               </l>
+               <l>To give the <hi>Pater Noſter</hi> to the Father,</l>
+               <l>And <hi>Avies</hi> to our Lady altogether;</l>
+               <l>And every Man may think (that wiſe or grave is,)</l>
+               <l>She's more then ſatisfi'd with <hi>Creeds</hi> and <hi>Aves;</hi>
+               </l>
+               <l>At which the Clergy (fearing more confuſion)</l>
+               <l>Were all contented with the Cooks concluſion.</l>
+            </sp>
+            <sp>
+               <speaker>Pri.</speaker>
+               <l>
+                  <hi>Pedlar,</hi> this tale is of thee Coyned new;</l>
+            </sp>
+            <sp>
+               <speaker>Ped.</speaker>
+               <l>Sir <hi>John,</hi> I'll leeſe my Pack if't be not true:</l>
+               <l>Again all learned Monkes and Fryers have read,</l>
+               <l>How Chriſt himſelf taught us of his own Head,</l>
+               <pb n="20" facs="tcp:150314:18"/>
+               <l>That every Soul that is with ſin oppreſt,</l>
+               <l>Should come to him, and he would give them reſt:</l>
+               <l>Come all to me (ſaid he) not to another,</l>
+               <l>Come all to me (ſaid he) not to my Mother.</l>
+               <l>And if I do as our good Lord commanded,</l>
+               <l>I know our Lady will no ways withſtand it.</l>
+               <l>And ſo if I ſhould ſay my Prayers in <hi>Latin,</hi>
+               </l>
+               <l>Unto the Lord at <hi>Even-ſong</hi> or <hi>Mattin,</hi>
+               </l>
+               <l>And never underſtand what I were ſaying,</l>
+               <l>Think you the Lord would take it for true Praying?</l>
+               <l>No ſure, he will not, for I truly know,</l>
+               <l>My Tongue and Heart muſt both together go.</l>
+               <l>And here upon I'll tell you what befel,</l>
+               <l>To learned Clerks, that Latin well could ſpell,</l>
+               <l>With whom by chance I lodged at an Inn,</l>
+               <l>Whereas an old Wife on her Wheel did ſpin,</l>
+               <l>And towards Evening ſhe fell to and Pray'd,</l>
+               <l>But neither they or I knew what ſhe ſaid;</l>
+               <l>One ſaid ſhe Canted, others ſaid ſhe Mumbled,</l>
+               <l>And ſtill ſtrange language from her Lips ſhe Fumbled,</l>
+               <l>Round run her Wheel, and round her Tongue did run,</l>
+               <l>She Mumbled, and ſhe Slaver'd, and ſhe Spun;</l>
+               <l>What think you now (Sir <hi>John</hi>) of this old Huſſie.</l>
+               <l>Where was her Heart when as ſhe was ſo buſie.</l>
+               <l>At laſt (ſaid one) Dame wot you what you ſay?</l>
+               <l>No, not (quoth ſhe) but well I wot I Pray.</l>
+               <l>You Pray (quoth he) and know not what I grant,</l>
+               <l>Alas how can you be ſo ignorant?</l>
+               <l>The Woman, muſing little at the motion,</l>
+               <l>Said, Ignorance is Mother of Devotion.</l>
+               <l>If Ignorance be Mother, then (ſaid he)</l>
+               <l>Sure Darkneſs muſt her only Daughter be.</l>
+               <pb n="21" facs="tcp:150314:18"/>
+               <l>Pray'd you, (quoth I) when all the time you Span?</l>
+               <l>What matters that, quoth ſhe, God's a good Man,</l>
+               <l>And knows what I ſpeak in the Latin Tongue,</l>
+               <l>Either at <hi>Mattins</hi> or at <hi>Even-ſong.</hi>
+               </l>
+               <l>Alas, good Sir, was not this Wife abus'd,</l>
+               <l>Whoſe Soul and Senſes all were ſo confus'd?</l>
+               <l>You know theſe unknown Tongues can profit no Man,</l>
+               <l>And one Tongue is enough for any Woman;</l>
+               <l>But when we Pray in true ſincerity,</l>
+               <l>As God commands in Spirit and verity,</l>
+               <l>The Heart ſends up the Tongue as Meſſenger</l>
+               <l>Unto the Lord, a pleaſant Paſſenger.</l>
+            </sp>
+            <sp>
+               <speaker>Pri.</speaker>
+               <l>But <hi>Pedler,</hi> here's a pretty little Book,</l>
+               <l>Wherein if thou wilt ſpare the time to look,</l>
+               <l>Set forth by a good Catholick Divine,</l>
+               <l>Which out of doubt will ſettle thy Ingine;</l>
+               <l>With it thy conſcience will be better fram'd,</l>
+               <l>The Gag of the new Goſpel it is nam'd:</l>
+               <l>He clearly proves by <hi>Zachary's</hi> example,</l>
+               <l>When he did ſacrifice within the Temple,</l>
+               <l>And all the People pray'd and ſtood without,</l>
+               <l>They knew not then what Tongue he ſpake no doubt;</l>
+               <l>
+                  <hi>Ergo</hi> the <hi>Maſs</hi> may be both ſaid and ſung,</l>
+               <l>In othet Language then our Mother Tongue.</l>
+            </sp>
+            <sp>
+               <speaker>Ped.</speaker>
+               <l>Sir <hi>John,</hi> I ſee your holy Catholick,</l>
+               <l>Upon the Text hath put a pretty trick;</l>
+               <l>Did <hi>Zachary</hi> ſpeak in a Latin ſtile,</l>
+               <l>When all the People ſtaid withour the while?</l>
+               <l>He was a <hi>Jew</hi> ſure, and knew <hi>Hebrew</hi> well,</l>
+               <l>And ſpake no <hi>Latin</hi> for ought you can tell;</l>
+               <l>For if the People heard not what he ſaid,</l>
+               <l>Could they or you know in what Tongue he Pray'd!</l>
+               <pb n="22" facs="tcp:150314:19"/>
+               <l>Since underſtanding cometh by the Ear,</l>
+               <l>He cannot underſtand that doth not hear.</l>
+               <l>Prove is, that <hi>Zachary</hi> ſpoke Latin, then</l>
+               <l>I'll ſiy all Monks and Fryers are honeſt men.</l>
+               <l>Becauſe a learned Prieſt may pray in Latin,</l>
+               <l>And mumble o're his <hi>Even-ſong, Maſs,</hi> and <hi>Muttin,</hi>
+               </l>
+               <l>
+                  <hi>Ergo</hi> a <hi>Pedlar</hi> to the Lord may Pray,</l>
+               <l>And know no ſillable that he doth ſay;</l>
+               <l>So when you put me to your <hi>Pater Noſter,</hi>
+               </l>
+               <l>I ask an Egg when I would have an Oyſter.</l>
+               <l>And ſeeing thus our Faith doth diſagree,</l>
+               <l>That neither I with you, nor you with me</l>
+               <l>Can be united with one mind and heart,</l>
+               <l>I think it beſt we take our leaves and part.</l>
+               <l>I'll pray that God, in grace and mercy, would</l>
+               <l>Bring all his Straying Flock into his Fold.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:150314:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
